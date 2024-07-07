@@ -7,13 +7,11 @@ import Footer from "./shared/Footer";
 function App() {
   return (
     <>
-    <Home/>
-    <Navbar/>
-    <Featuers/>
-    <About/>
-    <Footer/>
-
-    
+      <Home />
+      <Navbar />
+      <Featuers />
+      <About />
+      <Footer />
     </>
   );
 }
